@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/lucas-rafael-97a341185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-soares-da-costa-49679a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
