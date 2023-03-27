@@ -23,7 +23,7 @@
  </div>
  
  ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,react,nodejs,docker,linux,express,mongodb,mysql,nestjs,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,react,nodejs,laravel,php,docker,linux,express,mongodb,mysql,nestjs,&perline=10)](https://skillicons.dev)
 
 
 <div align="center">
