@@ -1,38 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D35B1&height=120&section=header"/>
+### Olá! Eu sou o Victor Soares 😄
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91a8ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Victor+Soares;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorsoarescosta344&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitorsoarescosta344&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorsoarescosta344&show_icons=true&count_private=true&hide_border=true&title_color=91a8ff&icon_color=91a8ff&text_color=c9d1d9&bg_color=0d1117" alt="Victor Soares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoarescosta344&layout=compact&hide_border=true&title_color=91a8ff&text_color=91a8ff&bg_color=0d1117" />
+<div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <a href="https://github.com/vitorsoarescosta344">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorsoarescosta344&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoarescosta344&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
+  
+<div style="display: inline_block"><br>
+  <i class="devicon-html5-plain colored"></i>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <!-- <img align="right" alt="marlon-anime-style" src="https://cdn.discordapp.com/attachments/376952870496632833/890670770265661510/Webp.net-resizeimage_2.png"> -->
+</div>  
+  
+##
 
-
-<div align="center"> 
-<a href = "mailto:v.soares.costa2077@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victorsoares2077/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,react,nodejs,laravel,php,docker,linux,express,mongodb,mysql,nestjs,&perline=10)](https://skillicons.dev)
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitorsoarescosta344}/count.svg" /></p> 
-<br>
+<div> 
+  <a href = "mailto:v.soares.costa2077@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorsoares2077/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/vitorsoarescosta344/vitorsoarescosta344/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D35B1&height=120&section=footer"/>
