@@ -114,15 +114,13 @@ A API recebe eventos autenticados por API key, guarda em MongoDB e libera consul
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitorsoarescosta344&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&theme=github_dark&bg_color=00000000&text_color=8B949E&icon_color=58A6FF&title_color=E6EDF3" height="165" alt="Estatísticas do GitHub">
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorsoarescosta344/vitorsoarescosta344/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorsoarescosta344/vitorsoarescosta344/output/github-snake.svg">
   <img alt="Cobrinha comendo o grid de contribuições" src="https://raw.githubusercontent.com/vitorsoarescosta344/vitorsoarescosta344/output/github-snake.svg">
 </picture>
+
+<sub>Grid de contribuições gerado a cada 12 horas por <a href="./.github/workflows/main.yml">GitHub Actions</a>.</sub>
 
 </div>
 
